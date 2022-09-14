@@ -1,4 +1,4 @@
-![banner](https://github.com/DagobertoSilva/aula12GiTGH/blob/main/Fa%C3%A7a%20como%20um%20programador.%20Quando%20tudo%20est%C3%A1%20errado%20e%20confuso%2C%20apague%20tudo%20e%20recomece%20do%20zero..png)
+
 
 <h1 align="center">Olá 👋, eu sou Dagoberto Silva</h1>
 <h3 align="center">aqui você encontrará alguns de meus projetos em programação</h3>
