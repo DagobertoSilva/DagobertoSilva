@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagobertosilva&label=Profile%20views&color=0e75b6&style=flat" alt="dagobertosilva" /> </p>
 
-- 📚 No momento estou fazendo o curso técnico em **informática**
+- 📚 conclui o curso técnico em **informática**
 
 - 🌱 Atualmente estou me aperfeiçoando em **JavaScript e Java**
 
