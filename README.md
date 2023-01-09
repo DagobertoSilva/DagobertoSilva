@@ -7,13 +7,13 @@
 
 - 📚 conclui o curso técnico em **informática**
 
-- 🌱 Atualmente estou me aperfeiçoando em **JavaScript e Java**
+- 🌱 Atualmente estou me aperfeiçoando em **JavaScript**
 
 - 🤝 Me siga no meu [Linkedin](https://www.linkedin.com/in/francisco-dagoberto-silva-dos-santos-367401224/)
 
 - 👨‍💻 Alguns de meus projetos estão disponíveis em: [https://github.com/DagobertoSilva](https://github.com/DagobertoSilva)
 
-- 💬 pergunte-me sobre **JavaScript e Java**
+- 💬 pergunte-me sobre **JavaScript**
 
 - 📫 Contato: **dagobertoosilvaa2608@gmail.com**
 
