@@ -13,9 +13,9 @@
 
 - 💬 pergunte-me sobre **JavaScript**
 
-- 📫 Contato: **dagobertoosilvaa2608@gmail.com**
+- 📫 Contato: **daagobertosilva@gmail.com**
 
-- 📄 Sobre mim [https://www.instagram.com/_dagobertoo/](https://www.instagram.com/_dagobertoo/)
+- 📄 Sobre mim [https://www.instagram.com/__dagobertoo/](https://www.instagram.com/__dagobertoo/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
