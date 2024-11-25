@@ -11,7 +11,7 @@
 
 - 👨‍💻 Alguns de meus projetos estão disponíveis em: [https://github.com/DagobertoSilva](https://github.com/DagobertoSilva)
 
-- 💬 pergunte-me sobre **JavaScript**
+- 💬 pergunte-me sobre **JavaScript, C e Java**
 
 - 📫 Contato: **daagobertosilva@gmail.com**
 
