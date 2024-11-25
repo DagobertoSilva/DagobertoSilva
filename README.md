@@ -1,4 +1,4 @@
-``<h1 align="center">Olá 👋, sou Dagoberto Silva</h1>
+<h1 align="center">Olá 👋, sou Dagoberto Silva</h1>
 <h3 align="center">aqui você encontrará alguns de meus projetos na área da programação.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dagobertosilva&label=Profile%20views&color=0e75b6&style=flat" alt="dagobertosilva" /> </p>
